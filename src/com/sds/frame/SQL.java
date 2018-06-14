@@ -16,4 +16,9 @@ public class SQL {
 	" FROM CUSTOMER c, " +
 	" CUSTOMERITEM ci " +
 	" WHERE c.ID = ci.ID ";
+	
+	private void Sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
